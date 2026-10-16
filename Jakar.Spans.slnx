@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+    <File Path="LICENSE.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Jakar.Spans/Jakar.Spans.csproj" />
+  <Project Path="Jakar.Spans.Tests/Jakar.Spans.Tests.csproj" />
+</Solution>
